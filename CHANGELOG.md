@@ -1,5 +1,19 @@
 # Changelog
 
+## [21.4.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.3.0...v21.4.0) (2024-12-10)
+
+
+### Features
+
+* **add:** Powerswitch-ZK(W) ([#8460](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8460)) ([a291886](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a291886566ce85c92c2fe757ed4bf1c612356a13))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE204_p1qrtljn` as TECH VNTH-T2 ([#8461](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8461)) ([2e4b3b0](https://github.com/Koenkk/zigbee-herdsman-converters/commit/2e4b3b0ac559cba174673fb9e69b3169d9b327a2))
+* Fix Giex GX03 battery value ([#8464](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8464)) ([ea9f815](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ea9f81597f6863d41a55f36653cc7f17fb2c9abb))
+* Update 3r virate xyz axis ([#8462](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8462)) ([6e3c0e3](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6e3c0e3ed47184800542509227db3d518cf471dc))
+
 ## [21.3.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.2.1...v21.3.0) (2024-12-09)
 
 
